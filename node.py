@@ -1,8 +1,7 @@
 ######################################################################
 #
 # Datei: node.py
-# Autor: Johannes Roith
-# Mail: j.roith@oth-aw.de
+# Autor: Johannes4Linux
 # Datum: 22.11.2019
 #
 # Klassen & Funktionen, um den Namespace eines OPC UA Servers
